@@ -1,0 +1,3 @@
+﻿  GameState.cpp
+c:\users\oleksandr\desktop\projects\game\game\enemy.h(46): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  game.vcxproj -> C:\Users\Oleksandr\Desktop\projects\game\x64\Debug\game.exe

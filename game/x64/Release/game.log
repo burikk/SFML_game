@@ -1,0 +1,315 @@
+﻿  Enemy.cpp
+c:\users\oleksandr\desktop\projects\game\game\enemy.h(46): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\enemy.cpp(49): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\oleksandr\desktop\projects\game\game\enemy.cpp(56): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+  Flash.cpp
+c:\users\oleksandr\desktop\projects\game\game\flash.cpp(16): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\flash.cpp(19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\flash.cpp(27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\flash.cpp(30): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  GameOverState.cpp
+c:\users\oleksandr\desktop\projects\game\game\enemy.h(46): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\gameoverstate.cpp(38): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\gameoverstate.cpp(62): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\gameoverstate.cpp(64): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\gameoverstate.cpp(74): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\oleksandr\desktop\projects\game\game\gameoverstate.cpp(74): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\gameoverstate.cpp(81): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\oleksandr\desktop\projects\game\game\gameoverstate.cpp(81): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  GameState.cpp
+c:\users\oleksandr\desktop\projects\game\game\enemy.h(46): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  HUD.cpp
+  LeftWall.cpp
+  MainMenuState.cpp
+c:\users\oleksandr\desktop\projects\game\game\enemy.h(46): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\mainmenustate.cpp(31): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Player.cpp
+c:\users\oleksandr\desktop\projects\game\game\player.cpp(127): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\player.cpp(128): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\player.cpp(129): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\oleksandr\desktop\projects\game\game\player.cpp(130): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  SplashState.cpp
+  main.cpp
+sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(AlResource.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(AlResource.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(InputSoundFile.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(InputSoundFile.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(OutputSoundFile.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(OutputSoundFile.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(ALCheck.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(ALCheck.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileFactory.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileFactory.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileReaderWav.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileReaderWav.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileWriterWav.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-audio-s-d.lib(SoundFileWriterWav.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Transformable.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Sprite.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Sprite.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(RenderStates.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(RectangleShape.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(RectangleShape.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(GLExtensions.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Transform.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Transform.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(View.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(View.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(VertexBuffer.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(VertexBuffer.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(Mouse.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(Mouse.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(CursorImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(SensorManager.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(SensorManager.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(Joystick.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(Joystick.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-system-s-d.lib(Err.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-system-s-d.lib(Err.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-system-s-d.lib(FileInputStream.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-system-s-d.lib(FileInputStream.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+sfml-system-s-d.lib(MemoryInputStream.cpp.obj) : error LNK2038: обнаружено несоответствие для "_ITERATOR_DEBUG_LEVEL": значение "2" не соответствует значению "0" в AssetManager.obj
+sfml-system-s-d.lib(MemoryInputStream.cpp.obj) : error LNK2038: обнаружено несоответствие для "RuntimeLibrary": значение "MDd_DynamicDebug" не соответствует значению "MD_DynamicRelease" в AssetManager.obj
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRTD" противоречит использованию других библиотек; используйте параметр /NODEFAULTLIB:library
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(SoundFileWriterWav.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(SoundFileFactory.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(InputSoundFile.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-audio-s-d.lib(ALCheck.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__invalid_parameter"
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(WglExtensions.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(GlContext.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(Glsl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-window-s-d.lib(VideoMode.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(GLCheck.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(Shader.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(VertexArray.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(RenderTextureImplFBO.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(Color.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(Shape.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(Image.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(SoundFileWriterWav.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(SoundFileFactory.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(InputSoundFile.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(ALCheck.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__CrtDbgReport"
+sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGenBuffers"
+sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alDeleteBuffers"
+sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alBufferData"
+sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGetBufferi"
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alSourcef"
+sfml-audio-s-d.lib(SoundSource.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alSourcef"
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alSourcei"
+sfml-audio-s-d.lib(SoundSource.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alSourcei"
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGetSourcef"
+sfml-audio-s-d.lib(SoundSource.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGetSourcef"
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGetSourcei"
+sfml-audio-s-d.lib(SoundSource.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGetSourcei"
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alSourcePlay"
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alSourceStop"
+sfml-audio-s-d.lib(Sound.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alSourcePause"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alIsExtensionPresent"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGetEnumValue"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alListenerf"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alListener3f"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alListenerfv"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alcCreateContext"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alcMakeContextCurrent"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alcDestroyContext"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alcOpenDevice"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alcCloseDevice"
+sfml-audio-s-d.lib(AudioDevice.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alcIsExtensionPresent"
+sfml-audio-s-d.lib(ALCheck.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGetError"
+sfml-audio-s-d.lib(SoundSource.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGenSources"
+sfml-audio-s-d.lib(SoundSource.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alDeleteSources"
+sfml-audio-s-d.lib(SoundSource.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alSource3f"
+sfml-audio-s-d.lib(SoundSource.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp_alGetSource3f"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_new"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_delete"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_get_state"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_init_stream"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_finish"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_process_single"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_process_until_end_of_metadata"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_skip_single_frame"
+sfml-audio-s-d.lib(SoundFileReaderFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_decoder_seek_absolute"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_encoder_new"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_encoder_delete"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_encoder_set_channels"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_encoder_set_bits_per_sample"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_encoder_set_sample_rate"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_encoder_init_file"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_encoder_finish"
+sfml-audio-s-d.lib(SoundFileWriterFlac.cpp.obj) : error LNK2001: неразрешенный внешний символ "FLAC__stream_encoder_process_interleaved"
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ov_clear"
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ov_open_callbacks"
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ov_test_callbacks"
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ov_pcm_total"
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ov_pcm_seek"
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ov_info"
+sfml-audio-s-d.lib(SoundFileReaderOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ov_read"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ogg_stream_packetin"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ogg_stream_flush"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ogg_stream_init"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "ogg_stream_clear"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_info_init"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_info_clear"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_comment_init"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_comment_clear"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_block_init"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_block_clear"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_dsp_clear"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_analysis_init"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_analysis_headerout"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_analysis_buffer"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_analysis_wrote"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_analysis_blockout"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_analysis"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_bitrate_addblock"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_bitrate_flushpacket"
+sfml-audio-s-d.lib(SoundFileWriterOgg.cpp.obj) : error LNK2001: неразрешенный внешний символ "vorbis_encode_init_vbr"
+sfml-window-s-d.lib(JoystickImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-system-s-d.lib(String.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-window-s-d.lib(WglContext.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-window-s-d.lib(JoystickManager.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-window-s-d.lib(Joystick.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-window-s-d.lib(Window.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-window-s-d.lib(Mouse.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-window-s-d.lib(WindowImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-window-s-d.lib(InputImpl.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-graphics-s-d.lib(Texture.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-graphics-s-d.lib(Font.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+sfml-graphics-s-d.lib(Text.cpp.obj) : error LNK2001: неразрешенный внешний символ "__imp__calloc_dbg"
+C:\Users\Oleksandr\Desktop\projects\game\x64\Release\game.exe : fatal error LNK1120: неразрешенных внешних элементов: 74
